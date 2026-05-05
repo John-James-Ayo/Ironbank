@@ -1,0 +1,7 @@
+{
+  "associatedApplications": [
+    {
+      "applicationId": "ba1359f7-ecea-4a03-9609-c453b97f9d2a"
+    }
+  ]
+}
